@@ -1,0 +1,15 @@
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\bin\Debug\ToggleButton.exe.config
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton.csprojResolveAssemblyReference.cache
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\App.g.cs
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton_MarkupCompile.cache
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\MainWindow.baml
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\MainWindow.g.cs
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton.g.resources
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton.Properties.Resources.resources
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton.csproj.GenerateResource.Cache
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\bin\Debug\ToggleButton.exe
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\bin\Debug\ToggleButton.pdb
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton.exe
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton.pdb
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Work\Temp_Olotech\ToggleButton\ToggleButton\obj\Debug\ToggleButton_MarkupCompile.lref
