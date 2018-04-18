@@ -1,0 +1,13 @@
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\bin\Debug\ExpanderStyleTemplate.exe.config
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\bin\Debug\ExpanderStyleTemplate.exe
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\bin\Debug\ExpanderStyleTemplate.pdb
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate.csprojResolveAssemblyReference.cache
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\MainWindow.baml
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\App.g.cs
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate_MarkupCompile.cache
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate.g.resources
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate.Properties.Resources.resources
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate.csproj.GenerateResource.Cache
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate.exe
+C:\Users\100mil\Documents\GitHub\C#\WPFSample\ExpanderStyleTemplate\ExpanderStyleTemplate\obj\Debug\ExpanderStyleTemplate.pdb
